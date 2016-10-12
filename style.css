@@ -1,0 +1,68 @@
+body { 
+  background: url(glasses.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+#resume {
+	display: block;
+  width: 700px;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  background: white;
+  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+  border-radius: 2px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+  color:white;
+  font-size: 15pt;
+  font-family: Verdana;
+
+}
+
+.navbar {
+  padding-bottom: 50px;
+
+}
+
+ .navbar-brand  { 
+  color:white;
+  font-size: 20pt;
+  font-family: Verdana;
+
+}
+
+#description1 {
+  color: white; 
+  font-weight: bold;
+  font-size: 30pt;
+  text-align: center;
+  margin: auto;
+    margin-top: .5em;
+        font-family: Garamond;
+
+}
+
+#description2 {
+  color: white; 
+  font-weight: bold;
+  font-size: 15pt;
+  text-align: center;
+  margin: auto;
+  margin-top: .5em;
+  font-family: Garamond;
+
+}
+
+.navbar {
+	margin-bottom: 0;
+	padding: 0;
+  
+}
+
+
